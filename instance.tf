@@ -8,3 +8,7 @@ resource "aws_instance" "t2example" {
   instance_type = "t2.micro"
   key_name = aws_key_pair.regev-key.key_name
 }
+
+output "ip" {
+  value = aws_instance.t2example.public_ip
+}
