@@ -1,5 +1,6 @@
 # terraform
 [![Terraform Compatibility](https://img.shields.io/badge/terraform-%3E%3D%200.12-blue)](docs/guides/compatibility.md)
+[![Build Status](https://travis-ci.org/look4regev/terraform.svg?branch=master)](https://travis-ci.org/look4regev/terraform)
 
 ## Purpose
 Games with terraform
