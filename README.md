@@ -1,4 +1,7 @@
 # terraform
+[![Terraform Compatibility](https://img.shields.io/badge/terraform-%3E%3D%200.12-blue)](docs/guides/compatibility.md)
+
+## Purpose
 Games with terraform
 
 ## Init
